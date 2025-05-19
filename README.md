@@ -27,10 +27,15 @@ Criar um sistema completo que:
 
 anomaly-detector-predictive/
 ├── data/ ← Dados brutos e anotados
+
 ├── models/ ← Modelos salvos (.h5, scaler)
+
 ├── scripts/ ← Scripts de geração, treino e inferência
+
 ├── dashboard/ ← Dashboard interativo com Dash
+
 ├── notebooks/ ← Notebook de análise exploratória (opcional)
+
 └── requirements.txt
 
 
